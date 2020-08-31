@@ -1,0 +1,8 @@
+detector_name,final_score,harddrive,water_pump,turbofan_engine,production_plant,max_processing_time_ms,avg_processing_time_ms
+AlwaysTrueDetector,51.5595,35.6763,64.3532,52.5712,53.6373,0.399,0.001512
+MultiModelHTMDetector,75.5276,80.6719,73.4685,70.6425,77.3275,169225.29,96.244571
+MultiModelHTMDetectorStaticThreshold,67.502,87.7274,67.0368,61.6066,53.6373,61790.065,57.70823
+RunToFailureDetector,61.2108,88.258,51.715,52.5717,52.2983,0.657,0.001503
+UniModelHTMDetector,73.1376,88.3937,54.7285,71.9899,77.4383,303459.05,74.3737
+XGBClassifierDetector,78.5882,81.3105,70.5113,97.6755,64.8555,764.415,17.129426
+XGBRegressorDetector,79.1002,86.1589,59.796,97.7395,72.7065,905.744,17.389865

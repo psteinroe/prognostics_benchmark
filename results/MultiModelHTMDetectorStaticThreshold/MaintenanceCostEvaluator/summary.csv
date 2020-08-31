@@ -1,0 +1,5 @@
+dataset_id,score,min_processing_time_ms,max_processing_time_ms,avg_processing_time_ms
+harddrive,43.5533,0.005,61790.065,57.70823
+production_plant,53.6373,0.005,61790.065,57.70823
+turbofan_engine,65.8059,0.005,61790.065,57.70823
+water_pump,67.0368,0.005,61790.065,57.70823
